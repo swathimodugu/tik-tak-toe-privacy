@@ -1,8 +1,7 @@
 # Support — Tic-Tac-Toe
 
-**Developer:** Swathi Nagireddy
+**Developer:** Thia Solution LLC
 **Contact:** thiasolutionsllc@gmail.com
-**App:** Tic-Tac-Toe (com.thiasolutions.tictactoe)
 **Platform:** iOS 17.0+
 **Last Updated:** April 9, 2026
 
