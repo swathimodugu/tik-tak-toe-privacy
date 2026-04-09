@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **App Name:** Tic-Tac-Toe
-**Developer:** Swathi Nagireddy
+**Developer:** Thia Solutions LLC
 **Effective Date:** April 9, 2026
 **Last Updated:** April 9, 2026
 
@@ -9,7 +9,7 @@
 
 ## Overview
 
-Tic-Tac-Toe ("the App") is developed and maintained by Swathi Nagireddy ("we", "us", or "our"). This Privacy Policy explains what information is accessed when you use the App, how it is used, and your rights regarding that information.
+Tic-Tac-Toe ("the App") is developed and maintained by Thia Solutions LLC ("we", "us", or "our"). This Privacy Policy explains what information is accessed when you use the App, how it is used, and your rights regarding that information.
 
 We are committed to protecting your privacy. The App is designed to collect as little data as possible.
 
@@ -133,9 +133,8 @@ For significant changes, we will update the App Store listing description to not
 
 If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us:
 
-**Swathi Nagireddy**
+**Thia Solutions LLC**
 Email: thiasolutionsllc@gmail.com
-Website: *(website optional)*
 
 ---
 
